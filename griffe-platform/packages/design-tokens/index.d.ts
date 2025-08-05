@@ -1,0 +1,51 @@
+export { default as pixelVerse } from './presets/pixel-verse.js';
+export { default as curryLanding } from './presets/curry-landing.js';
+export { default as novaHaven } from './presets/nova-haven.js';
+export { default as novaWorks } from './presets/nova-works.js';
+export declare const cssVariables: {
+    'pixel-verse': {
+        '--background': string;
+        '--foreground': string;
+        '--card': string;
+        '--card-foreground': string;
+        '--popover': string;
+        '--popover-foreground': string;
+        '--primary': string;
+        '--primary-foreground': string;
+        '--secondary': string;
+        '--secondary-foreground': string;
+        '--muted': string;
+        '--muted-foreground': string;
+        '--accent': string;
+        '--accent-foreground': string;
+        '--destructive': string;
+        '--destructive-foreground': string;
+        '--border': string;
+        '--input': string;
+        '--ring': string;
+        '--radius': string;
+    };
+    'nova-works': {
+        '--background': string;
+        '--foreground': string;
+        '--card': string;
+        '--card-foreground': string;
+        '--popover': string;
+        '--popover-foreground': string;
+        '--primary': string;
+        '--primary-foreground': string;
+        '--secondary': string;
+        '--secondary-foreground': string;
+        '--muted': string;
+        '--muted-foreground': string;
+        '--accent': string;
+        '--accent-foreground': string;
+        '--destructive': string;
+        '--destructive-foreground': string;
+        '--border': string;
+        '--input': string;
+        '--ring': string;
+        '--radius': string;
+    };
+};
+//# sourceMappingURL=index.d.ts.map
